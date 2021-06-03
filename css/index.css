@@ -1,0 +1,73 @@
+.barra-navegacion {
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+
+body {
+    background-color: #7f5a83;
+    background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+}
+
+.contenedor-redes {
+    color: lightgray !important;
+}
+
+/*Desplazamiento*/
+.navbar-brand {
+    font-weight: bold;
+}
+
+.top-nav-collapse {
+    background-color: #7f5a833d;
+    background-image: linear-gradient(315deg, #7f5a8342 0%, #0d324d5d 74%);
+} /*Desplazamiento*/
+
+.contenedor {
+     background-color: #7f5a83;
+     background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+
+}
+
+.font-servidor {
+    font-size: 25px;
+}
+
+.font-premium {
+    font-size: 25px;
+}
+.font-licencias {
+    font-size: 25px;
+}
+/*Centrar card en sm */
+@media (max-width: 768px) { 
+    .centrar-card {
+        text-align: center;
+    }
+ } /*Centrar card en sm */
+
+
+.card-servidor {
+    font-size: 13px;
+}
+
+.font-licencia {
+    font-size: 16px !important;
+}
+
+.font-bins  {
+    font-size: 20px;
+}
+
+
+.line-height-bins {
+    line-height: 0.8rem;
+}
+
+.line-height-eset {
+    line-height: 0.8rem;
+}
+
+.line-height-premium {
+    line-height: 1rem;
+}
+
